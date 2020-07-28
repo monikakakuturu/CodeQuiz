@@ -1,0 +1,38 @@
+header {
+  text-align: center;
+}
+
+.introduction {
+  text-align: center;
+}
+
+body {
+  background-color: lightgray;
+}
+
+ques {
+  margin-left: 100px;
+}
+
+h4 {
+  margin-left: 200px;
+}
+
+h6 {
+  margin-left: 200px;
+}
+
+submit {
+  margin: 10px;
+  margin-left: 200px;
+  background-color: lightblue;
+  display: block;
+}
+
+input {
+  margin-left: 200px;
+}
+
+button {
+  margin-left: 10px;
+}
